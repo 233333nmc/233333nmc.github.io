@@ -14,6 +14,18 @@
     @include prefix(0.5 of 12);
   }
 
+  h1:not(.page__title) {
+    font-size: $type-size-5;
+  }
+
+  h2 {
+    font-size: $type-size-6;
+  }
+
+  h3 {
+    font-size: $type-size-7;
+  }
+
   a {
     text-decoration: underline;
 
@@ -59,7 +71,7 @@
 
 .archive__item-excerpt {
   .archive__item p {
-    font-size: 0.6em;
+    font-size: 0.8em;
   }
   
 
@@ -69,7 +81,7 @@
 }
 
 .archive__item p {
-  font-size: 0.6em;
+  font-size: 0.8em;
 }
 
 .archive__item-teaser {
