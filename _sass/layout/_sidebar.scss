@@ -206,23 +206,23 @@
 
 .author__pronouns {
   margin: 0;
-  font-size: 1.5rem;    /* 放大代称，原版通常很小 */
+  font-size: 2.0rem;    /* 放大代称，原版通常很小 */
   color: #666;          /* 稍微淡化颜色，突出重点 */
 
   @include breakpoint($large) {
-    margin-top: 5px;    /* 缩小与名字之间的间距，让它们看起来更像一组 */
-    margin-bottom: 10px;
+    margin-top: 8px;    /* 缩小与名字之间的间距，让它们看起来更像一组 */
+    margin-bottom: 15px;
   }
 }
 
 .author__bio {
   margin: 0;
-  font-size: 1.5rem;    /* 放大简介文字 */
+  font-size: 2.0rem;    /* 放大简介文字 */
   line-height: 1.4;     /* 增加行高，防止文字变大后挤在一起 */
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 35px;
   }
 }
 
