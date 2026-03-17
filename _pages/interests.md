@@ -13,43 +13,42 @@ I enjoy staying active and maintaining a healthy lifestyle through various sport
 # Music & Idols
 In my spare time, I am a huge fan of K-Pop and follow groups that inspire me with their performances:
 
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td style="width:50%; border:none; vertical-align:middle; text-align:center;">
-      <h3 style="margin-top:0;">EXO</h3>
-      <img src="/images/exo.jpg" style="width:70%; border-radius:10px;">
-    </td>
-    <td style="width:50%; border:none; vertical-align:middle; text-align:center;">
-      <h3 style="margin-top:0;">SEVENTEEN</h3>
-      <img src="/images/svt.jpg" style="width:70%; border-radius:10px;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; align-items: flex-end; text-align: center; padding: 20px 0;">
+  <div style="flex: 1;">
+    <h3 style="margin-bottom: 15px;">EXO</h3>
+    <img src="/images/exo.jpg" style="height: 220px; width: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-bottom: 15px;">SEVENTEEN</h3>
+    <img src="/images/svt.jpg" style="height: 220px; width: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
 # Games
 I'm a big fan of strategy and RPG games. Feel free to add me to discuss gameplay or share strategies!
 
-<table style="width:100%; border:none; border-collapse:collapse; table-layout: fixed;">
-  <tr style="border:none;">
-    <td style="border:none; vertical-align:top; text-align:center; padding:10px;">
-      <strong style="font-size:1.1em;">Slay the Spire</strong><br><br>
-      <img src="/images/slay_the_spire.jpg" style="width:90%; border-radius:8px; margin-bottom:10px;"><br>
-      <small>I enjoy playing as <b>The Silent</b>.</small>
-    </td>
-    <td style="border:none; vertical-align:top; text-align:center; padding:10px;">
-      <strong style="font-size:1.1em;">Onmyoji</strong><br><br>
-      <div style="display: flex; justify-content: center; gap: 4px; margin-bottom: 10px;">
-        <img src="/images/onmyoji.jpg" style="width:46%; border-radius:4px;" title="Fujiyama">
-        <img src="/images/onmyoji1.jpg" style="width:46%; border-radius:4px;" title="Taishakuten">
-      </div>
-      <small>My favorite characters are <b>Fujiyama</b> and <b>Taishakuten</b>. I'm a beginner who loves PvP duels.</small>
-    </td>
-    <td style="border:none; vertical-align:top; text-align:center; padding:10px;">
-      <strong style="font-size:1.1em;">Arknights</strong><br><br>
-      <img src="/images/arknights.jpg" style="width:90%; border-radius:8px; margin-bottom:10px;"><br>
-      <small>I like <b>SilverAsh</b>.</small>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: center; padding: 20px 0; gap: 10px;">
+  <div style="flex: 1;">
+    <strong style="display: block; margin-bottom: 15px; font-size: 1.1em;">Slay the Spire</strong>
+    <img src="/images/slay_the_spire.jpg" style="height: 150px; width: auto; border-radius: 6px;">
+    <p style="margin-top: 10px;"><small>I enjoy playing as The Silent.</small></p>
+  </div>
+  
+  <div style="flex: 1.2;">
+    <strong style="display: block; margin-bottom: 15px; font-size: 1.1em;">Onmyoji</strong>
+    <div style="display: flex; justify-content: center; gap: 5px;">
+      <img src="/images/onmyoji.jpg" style="height: 150px; width: auto; border-radius: 4px;">
+      <img src="/images/onmyoji1.jpg" style="height: 150px; width: auto; border-radius: 4px;">
+    </div>
+    <p style="margin-top: 10px;"><small>My favorite characters are Fujiyama and Taishakuten. I'm a beginner who loves PvP duels.</small></p>
+  </div>
+
+  <div style="flex: 1;">
+    <strong style="display: block; margin-bottom: 15px; font-size: 1.1em;">Arknights</strong>
+    <img src="/images/arknights.jpg" style="height: 150px; width: auto; border-radius: 6px;">
+    <p style="margin-top: 10px;"><small>I like SilverAsh.</small></p>
+  </div>
+</div>
 
 > **Let's Connect!**
 > Welcome to add me on Steam or reach out to chat about these games!
