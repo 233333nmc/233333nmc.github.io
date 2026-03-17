@@ -208,22 +208,23 @@
   }
 }
 
-/* 加上 .sidebar 确保权重高于模板默认样式 */
+/* 统一侧边栏代称和简介的颜色与字号 */
 .sidebar .author__pronouns {
   margin: 0;
-  font-size: 1.5rem !important; /* 加入 !important 是最后的双重保险 */
-  color: #666;
+  font-size: 1.2rem !important; 
+  color: #444 !important; /* 统一颜色：深灰色 */
 
   @include breakpoint($large) {
     margin-top: 8px;
     margin-bottom: 10px;
-    display: block; /* 确保它在桌面端独立成行 */
+    display: block; 
   }
 }
 
 .sidebar .author__bio {
   margin: 0;
-  font-size: 1.5rem !important; 
+  font-size: 1.2rem !important; 
+  color: #444 !important; /* 统一颜色：深灰色 */
   line-height: 1.4;
 
   @include breakpoint($large) {
