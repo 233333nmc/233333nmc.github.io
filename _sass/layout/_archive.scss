@@ -45,6 +45,11 @@
   }
 }
 
+.archive.interests-page h2,
+.archive.publications-page h2 {
+  font-size: $type-size-5;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
